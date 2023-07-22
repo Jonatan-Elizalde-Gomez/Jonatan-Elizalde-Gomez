@@ -41,6 +41,6 @@ Soy un estudiante de software con una gran pasión por la tecnología y el apren
 
 <div display="flex">
   <a href="https://frolicking-sprinkles-51a4e6.netlify.app/">
-    <img src="https://img.shields.io/badge/Portafolio-%2320232a.svg?style=for-the-badge&logo=mdBook&logoColor=%23C46528" alt="Portafolio"/>
+    <img src="https://img.shields.io/badge/Portafolio-%2320232a.svg?style=for-the-badge&logo=mdBook&logoColor=%23FCEBC1" alt="Portafolio"/>
   </a>
 </div>
