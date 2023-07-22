@@ -1,5 +1,8 @@
-## Hola 👋
+## Hola👋, Soy Jonatan Elizalde Gómez
 
+Soy un estudiante de software con una gran pasión por la tecnología y el aprendizaje. Me considero una persona proactiva, con fuertes habilidades de comunicación y una profunda curiosidad por adquirir nuevas habilidades y conocimientos. Me esfuerzo por estar al día con las últimas tendencias tecnológicas y siempre estoy buscando nuevas formas de mejorar mis habilidades. Me gusta trabajar en equipo y creo que los mejores resultados se logran a través de la colaboración entre personas. Me gusta usar mi creatividad para crear soluciones innovadoras.
+
+---
 
 **Me gusta trabajar con**
 
@@ -31,5 +34,13 @@
   </a>
   <a href="mailto:jonatanelizaldegomez@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Medium"/>
+  </a>
+</div>
+
+### 💼 Portafolio
+
+<div display="flex">
+  <a href="https://frolicking-sprinkles-51a4e6.netlify.app/">
+    <img src="https://img.shields.io/badge/Portafolio-%2320232a.svg?style=for-the-badge&logo=mdBook&logoColor=%23C46528" alt="Portafolio"/>
   </a>
 </div>
