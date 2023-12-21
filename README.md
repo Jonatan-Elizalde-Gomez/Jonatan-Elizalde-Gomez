@@ -42,6 +42,6 @@ latest technological trends, collaborate well in teams, and apply my creativity 
 
 <div display="flex">
   <a href="https://www.jonatanelizalde.com">
-    <img src="https://img.shields.io/badge/Portafolio-%2320232a.svg?style=for-the-badge&logo=mdBook&logoColor=%23FCEBC1" alt="Portafolio"/>
+    <img src="https://img.shields.io/badge/Portafolio-%2320232a.svg?style=for-the-badge&logo=mdBook&logoColor=%23FCEBC1" alt="Portfolio"/>
   </a>
 </div>
