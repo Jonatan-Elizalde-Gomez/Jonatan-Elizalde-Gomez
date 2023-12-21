@@ -1,10 +1,11 @@
-## Hola👋, Soy Jonatan Elizalde Gómez
+## Hello👋, I'm Jonatan Elizalde Gómez
 
-Soy un estudiante de software con una gran pasión por la tecnología y el aprendizaje. Me considero una persona proactiva, con fuertes habilidades de comunicación y una profunda curiosidad por adquirir nuevas habilidades y conocimientos. Me esfuerzo por estar al día con las últimas tendencias tecnológicas y siempre estoy buscando nuevas formas de mejorar mis habilidades. Me gusta trabajar en equipo y creo que los mejores resultados se logran a través de la colaboración entre personas. Me gusta usar mi creatividad para crear soluciones innovadoras.
+I'm a passionate software student with a love for technology and learning. I'm proactive, with excellent communication skills, and a strong curiosity for acquiring knowledge. I always stay up-to-date with the
+latest technological trends, collaborate well in teams, and apply my creativity to innovative solutions.
 
 ---
 
-**Me gusta trabajar con**
+**I like to work with**
 
 <div display="flex">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
@@ -15,7 +16,7 @@ Soy un estudiante de software con una gran pasión por la tecnología y el apren
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </div>
 
-### 🌱 Estoy aprendiendo
+### 🌱 I'm learning
 
 <div display="flex">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".Net"/>
@@ -23,7 +24,7 @@ Soy un estudiante de software con una gran pasión por la tecnología y el apren
 </div>
 
 
-### 📫 Contactame
+### 📫 Contact
 
 <div display="flex">
   <a href="https://www.linkedin.com/in/jonatan-elizalde-gomez/">
@@ -37,10 +38,10 @@ Soy un estudiante de software con una gran pasión por la tecnología y el apren
   </a>
 </div>
 
-### 💼 Portafolio
+### 💼 Portfolio
 
 <div display="flex">
-  <a href="https://frolicking-sprinkles-51a4e6.netlify.app/">
+  <a href="https://www.jonatanelizalde.com">
     <img src="https://img.shields.io/badge/Portafolio-%2320232a.svg?style=for-the-badge&logo=mdBook&logoColor=%23FCEBC1" alt="Portafolio"/>
   </a>
 </div>
